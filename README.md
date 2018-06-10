@@ -2,9 +2,9 @@
 Creating Plotly plots in JS and html on Flask
 
 
-Instructions:
 
-# Belly Button Biodiversity
+
+# Instructions
 
 ![Bacteria by filterforge.com](Images/bacteria_by_filterforgedotcom.jpg)
 
